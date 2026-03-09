@@ -5,8 +5,7 @@ This project packages the Creator Adda website (`dist` build) as an installable 
 ## What is included
 
 - `web/`: bundled website assets
-- `android/`: native Android project (generated)
-- `ios/`: native iOS project (generated)
+- `android/` and `ios/`: generated locally after running add/sync commands
 - `scripts/sync-web-assets.ps1`: sync latest website `dist` into `web/`
 
 ## Setup
